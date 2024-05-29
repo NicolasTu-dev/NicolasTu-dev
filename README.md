@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas Tu</h1>
 <h3 align="center">A passionate backend developer from Argentina</h3>
 
-- 🔭 I’m currently working on **IBM as an MDM Developer**
-
-- 👯 I’m looking to collaborate on **Any type of project**
+- 🔭 I’m currently working on **IBM as a Java Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NicolasTu-dev](https://github.com/NicolasTu-dev)
 
